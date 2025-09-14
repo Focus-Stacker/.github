@@ -120,8 +120,6 @@ Focus Stacker is opinionated about **safety and transparency**. It never alters 
 
 ## 🖼 Screenshots
 
-![Workspace & Heatmap](https://static.macupdate.com/screenshots/333236/m/focus-stacker-screenshot.png?v=1649715974)
-
 ![Depth & Blending Controls](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bc/4b/55/bc4b5519-cfd0-c554-7838-599f960cc6c0/pr_source.png/643x0w.jpg)
 
 ![Batch Export Recipes](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/99/12/22/991222b9-9868-5593-9fd6-007cdb34bc48/pr_source.png/643x0w.jpg)
