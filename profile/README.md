@@ -3,7 +3,7 @@
 ![Focus Stacker Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7f/8b/a4/7f8ba4fd-f8be-d2d8-3430-8ea8a74b6391/pr_source.png/643x0w.jpg)
 
 <div align="center" style="margin:14px 0 16px;">
-  <a href="https://focus-stacker.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Focus">
     <img src="https://img.shields.io/badge/⬇️_GET_FOCUS_STACKER_FOR_MAC-darkslateblue?style=for-the-badge&logo=camera&logoColor=white" alt="Get Focus Stacker for Mac">
   </a>
 </div>
